@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://file-sharing-mern.vercel.app";
+const API_URL = "https://file-sharing-backend-h8oc.onrender.com";
 
 export const uploadFile = async (data) => {
   try {
@@ -10,3 +10,5 @@ export const uploadFile = async (data) => {
     console.error("Error while calling the api", error.message);
   }
 };
+
+
