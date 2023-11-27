@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(
   cors({
-    origin: "https://file-sharing-mern-i944.vercel.app/",
+    origin: "*",
   })
 );
 app.use("/", router);
