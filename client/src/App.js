@@ -61,7 +61,7 @@ function App() {
         }}
       />
       <div className="flex flex-col items-center justify-center gap-10 wrapper">
-        <h1 className="text-5xl italic font-bold text-light font-libre">
+        <h1 className="text-5xl italic font-bold text-center text-light font-libre">
           Simple File Sharing App!
         </h1>
         <p className="text-lg font-semibold capitalize text-body">
