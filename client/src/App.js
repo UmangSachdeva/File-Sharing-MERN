@@ -86,7 +86,7 @@ function App() {
               result ? "opacity-100" : "opacity-0"
             }`}
           >
-            <p className="p-2 text-light">{result}</p>
+            <p className="p-2 truncate text-light max-w-[300px]">{result}</p>
             <button className="w-10 h-full px-2 bg-body" onClick={copyLink}>
               {copyIcon({ color: "#84A7A1" })}
             </button>
