@@ -8,8 +8,7 @@ export const uploadImage = async (request, response) => {
   try {
     const file = await File.create(fileObj);
     response.status(200).json({
-      path: `https://file-sharing-backend-h8oc.onrender.com
-        /file/${file._id}`,
+      path: `https://file-sharing-backend-h8oc.onrender.com/file/${file._id}`,
     });
   } catch (error) {
     console.error(error.message);
