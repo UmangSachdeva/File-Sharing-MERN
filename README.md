@@ -74,10 +74,10 @@ https://github.com/Vinayak409/File-Sharing-App-MERN-Stack/assets/75150039/5fecca
 
 ## Contact
 
-<a target="_blank" href="https://www.linkedin.com/in/vinayak-chittora/">
+<a target="_blank" href="https://www.linkedin.com/in/umang-sachdeva-66aa82220">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="mailto:vinayakchittora31@gmail.com">
+<a target="_blank" href="mailto:umang965454@gmail.com">
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
